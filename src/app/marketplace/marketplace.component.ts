@@ -10,7 +10,6 @@ import { AlbumService } from '../album.service';
   providers: [AlbumService]
 })
 
-
 export class MarketplaceComponent implements OnInit {
   albums: Album[];
 
