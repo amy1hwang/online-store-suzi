@@ -1,0 +1,18 @@
+
+
+<div class="panel panel-default">
+  <div class="panel-body">
+
+    <h2>This album has id number: {{albumId}}</h2>
+
+    <img src={{album.image}} alt={{album.artist}} height="250px"><br>
+    <h3><em>{{album.title}}</em> by {{album.artist}}</h3>
+    <div class="albumMp3">
+
+      <audio controls #player [attr.src]="src">
+  <source [src]="src" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+    </div>
+  </div>
+</div>
