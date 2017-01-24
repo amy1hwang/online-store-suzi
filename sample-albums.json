@@ -1,41 +1,37 @@
-{"albums": [{
+{ "albums": [{
     "title": "Schwifty",
     "artist": "Rick and Morty",
     "description": "Rick and morty must aid Earth after a giant head disrupts the planet, demanding to see a hit song performed.",
-    "id": "0",
     "audio": "http://suzirubi.com/schwifty.mp3",
-    "image": "http://suzirubi.com/rickMorty558.jpg"
-  },
-  {
+    "image": "http://suzirubi.com/rickMorty558.jpg",
+    "id": "0"
+  }, {
   "title": "Lumberjack",
   "artist": "Monty Python's Flying Circus",
   "description": "A song that will get you out hiking in the woods",
-  "id": "1",
   "audio": "http://suzirubi.com/lumberjack.mp3",
-  "image": "http://suzirubi.com/lumberjack.jpg"
-  },
-  {
+  "image": "http://suzirubi.com/lumberjack.jpg",
+  "id": "1"
+  }, {
   "title": "Shaolin Kung Fu Hao Yeah",
   "artist": "Stephen Chow",
   "description": "Absolutely the best martial arts film ever, this song is performed by Stephen Chow and Wong Yat-fei",
-  "id": "2",
   "audio": "http://suzirubi.com/shaolin.mp3",
-  "image": "http://suzirubi.com/shoalinSoccer.jpg"
-  },
-  {
+  "image": "http://suzirubi.com/shoalinSoccer.jpg",
+  "id": "2"
+  }, {
   "title": "D.I.S.C.O.",
   "artist": "The Young Professionals",
   "description": "Uriel Yekutiel is a Trans-Continental celebrity in the club scene. Uriel has a growing popularity on Youtube through video promotions for Israeli club night party Arisa.",
-  "id": "3",
   "audio": "http://suzirubi.com/disco.mp3",
-  "image": "http://suzirubi.com/disco.gif"
-  },
-  {
+  "image": "http://suzirubi.com/disco.gif",
+  "id": "3"
+  }, {
   "title": "The GOOD TIMES",
   "artist": "Afroman",
   "description": "Joseph Edgar Foreman (born July 28, 1974), better known by his stage name Afroman, is an American rapper and musician. He is best known for the hit single \"Because I Got High\". He was nominated for a Grammy award in 2002.",
-  "id": "4",
   "audio": "http://suzirubi.com/afroman.mp3",
-  "image": "http://suzirubi.com/afroman.jpg"
-  }
-]}
+  "image": "http://suzirubi.com/afroman.jpg",
+  "id": "4"
+  }]
+}
