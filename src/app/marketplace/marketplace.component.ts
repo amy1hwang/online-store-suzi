@@ -11,7 +11,7 @@ import { AlbumService } from '../album.service';
 })
 
 export class MarketplaceComponent implements OnInit {
-  albums: Album[];
+  albums: FirebaseListObservable<any[]>;
 
   constructor(private router: Router, private albumService: AlbumService){}
 
