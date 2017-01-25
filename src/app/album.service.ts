@@ -30,6 +30,9 @@ export class AlbumService {
                                 image: localUpdatedAlbum.image,
                                 });
   }
-
+  deleteAlbum(localAlbumToDelete){
+    var albumEntryInFirebase = this.getAlbumById(localAlbumToDelete.$key);
+    albumEntryInFirebase.remove();
+  }
 
 }
