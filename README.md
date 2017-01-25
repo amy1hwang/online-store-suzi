@@ -12,6 +12,18 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ________
 
+```````````````````
+
+export var masterFirebaseConfig = {
+  apiKey: "AIzaSyAMbQKkpl1Q20wzLI7Lc7YGdiu9cIgBklA",
+  authDomain: "album-d2258.firebaseapp.com",
+  databaseURL: "https://album-d2258.firebaseio.com",
+  storageBucket: "album-d2258.appspot.com",
+  messagingSenderId: "122657446202"
+};
+
+```````````````````
+
 ### Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
